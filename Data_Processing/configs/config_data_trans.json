@@ -1,0 +1,9 @@
+{
+    "delete_parent":{
+        "path" : ""
+    },
+    "split_data": {
+        "org_path": "",
+        "dest_path": ""
+    }
+}
